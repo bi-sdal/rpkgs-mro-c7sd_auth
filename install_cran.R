@@ -58,7 +58,8 @@ the_rest <- c(
     'rsconnect',
     'rsvg',
     'data.tree',
-    'networkD3'
+    'networkD3',
+    'tidycensus'
 )
 
 cran_pkgs <- c(gis_pkgs, tidy_pkgs, shiny_pkgs, io_pkgs, ml_pkgs, the_rest)
